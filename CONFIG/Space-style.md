@@ -71,3 +71,10 @@ html {
 }
 ```
 
+### Gray out checked tasks
+
+```space-style
+.cm-task-checked {
+  opacity: 70%
+}
+```
